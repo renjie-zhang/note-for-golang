@@ -1,0 +1,2 @@
+# Note-For-Golang
+nil
