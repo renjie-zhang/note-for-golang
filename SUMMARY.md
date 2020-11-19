@@ -23,9 +23,9 @@
 
 ## GMP
 
-* [Untitled](gmp/untitled.md)
+* [GMP模型](gmp/untitled.md)
 
 ## TEST
 
-* [普通测试](test/normal-test.md)
+* [Unit Test](test/normal-test.md)
 
