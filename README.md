@@ -1,5 +1,5 @@
 ---
-description: '不指望被star或者fork,只想记录自己的学习路线、学习笔记而已，仅此而已。'
+description: 记录自己的学习路线、学习笔记而已，仅此而已。
 ---
 
 # Golang Note
