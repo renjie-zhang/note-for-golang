@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Golang Note](README.md)
+* [Initial page](README.md)
 
