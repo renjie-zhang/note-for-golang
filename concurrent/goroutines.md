@@ -1,4 +1,0 @@
-# Goroutines
-
-hello
-
